@@ -1,6 +1,6 @@
 # T-shirts Galore Server
 
-**Technology:** React, Node.js, MongoDB\
+**Technology:** React, Node.js, MongoDB
 
 **Tools:** VSCode, Git, Netlify, Firebase, Heroku.
 
